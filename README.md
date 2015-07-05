@@ -5,7 +5,7 @@ A package is a directory with an `__init__.py` file. When you import a package, 
 
 ```
 ~/demoexecution$ python - << END
-import package
+> import package
 > END
 package.__init__ is being executed
 PackageClass is being executed
