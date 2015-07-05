@@ -1,1 +1,1 @@
-print('delay.py is being executed')
+print('package.delay.py is being executed')
